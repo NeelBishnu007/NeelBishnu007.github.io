@@ -1,6 +1,6 @@
 Welcome to the repository for my personal website! This repository houses the code and assets for my personal website. Feel free to explore the code, suggest improvements, or report any issues you may encounter.
-To run this website, follow this link:
-https://swapnaneelbishnuwebsite.on.drv.tw/website.html
+Here's the deployment link:
+http://neelbishnu007.github.io/
 
 This website serves as my digital presence on the web. It showcases my portfolio, projects, blog posts, and more. The website is built using modern web technologies to ensure a smooth and engaging user experience.
 
