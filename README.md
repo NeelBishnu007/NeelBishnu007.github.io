@@ -9,5 +9,3 @@ HTML5: The structure of the website is built using HTML5 for semantic markup.
 CSS3: Cascading Style Sheets are used for styling and layout.
 Bootstrap: Utilized for responsive design and layout.
 
-To run this website, follow this link:
-https://swapnaneelbishnuwebsite.on.drv.tw/website.html
